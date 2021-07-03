@@ -69,6 +69,7 @@ function App() {
         <br />
       </div>
       <br />
+      <div style={{ position: "fixed", bottom: "2%", right: "2%", color: "white" }} className="signature">By <i>Hemanth Kumar</i></div>
     </div >
   );
 }
