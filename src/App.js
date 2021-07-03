@@ -54,10 +54,10 @@ function App() {
         <span>Weather:- {weather.weather[0].main}</span>
         <br />
         <span>Humidity:- {weather.main.humidity}</span>
-        <br />
+        {/* <br />
         <span>Sunrise:- {weather.sys.sunrise}</span>
         <br />
-        <span>Sunset:- {weather.sys.sunrise}</span>
+        <span>Sunset:- {weather.sys.sunrise}</span> */}
         <br />
         <span>Temparature max:- {weather.main.temp_max - 273}°</span>
         <br />
