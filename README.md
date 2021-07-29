@@ -1,5 +1,5 @@
-#Weatherapp
-this is a music weather app which made using the Openweatherapi
+# Weatherapp
+This is a music weather app which made using the Openweatherapi
 
 # Getting Started with Create React App
 
