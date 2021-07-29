@@ -1,3 +1,6 @@
+#Weatherapp
+this is a music weather app which made using the Openweatherapi
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
